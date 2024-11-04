@@ -1,0 +1,24 @@
+
+@import url('https://fonts.cdnfonts.com/css/hanko');
+
+ 
+ 
+ h1 {
+   color:green; 
+    letter-spacing:20px;
+    word-spacing: 20px;
+}
+p{
+    text-indent: 10px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+img {
+    clip-path: polygon(50% 0%, 0% 100%, 100%, 100%);
+}
+a:hover{
+    color:firebrick;
+}
+img:hover{
+    filter: grayscale()
+}
